@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omarr Maadarani
-- 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning SQL, Python, and R 
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, and REACT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me omarrmaadarani@gmail.com
 - 😄 Pronouns: He/Him
